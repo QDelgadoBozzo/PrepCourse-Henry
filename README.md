@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio de prueba modulo 2 del prep course de Henry
+Quelvin Delgado Bozzo, este proyecto es una prueba de como crear un repositorio y clonar en github
